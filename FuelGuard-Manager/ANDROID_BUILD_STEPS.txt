@@ -1,0 +1,8 @@
+Run from this folder in a terminal:
+  npm install
+  npx cap add android
+  npx cap sync android
+  npx cap open android
+
+Build the APK in Android Studio after installing the Android SDK.
+This scaffold does not contain a prebuilt APK or signing keys.
